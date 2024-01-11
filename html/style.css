@@ -1,0 +1,7 @@
+table {
+    background: linear-gradient(blue, pink);
+    width: 100% ;
+}
+td>label{
+    color: #fff;
+}
